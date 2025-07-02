@@ -1,41 +1,31 @@
-1. Funnel Design Simulation (For B2B SaaS with 4–6 week cycle)
+# Funnel Design Simulation (B2B SaaS – 4–6 Week Sales Cycle)
 
-Funnel Stage
+This funnel design outlines a structured approach for managing and optimizing the customer journey in a B2B SaaS business, especially suited for a 4–6 week sales cycle targeting MSMEs.
 
-Criteria
+---
 
-Owner
+##  Funnel Stages
 
-Lead
+| **Stage**     | **Criteria**                                                                 | **Owner**         |
+|---------------|-------------------------------------------------------------------------------|-------------------|
+| **Lead**      | Submitted interest form or responded via inbound ads                         | Marketing         |
+| **MQL**       | Matches Ideal Customer Profile (industry, company size), <br>+ Opened 2+ emails or clicked an ad | Marketing |
+| **SQL**       | Booked a demo, and qualifies on BANT (Budget, Authority, Need, Timeline)     | Sales             |
+| **Customer**  | Signed contract or made payment                                               | Sales             |
+| **Evangelist** _(Bonus)_ | Shared testimonial or referred another potential customer                     | Customer Success  |
 
-Submitted interest form / inbound response via ads
+---
 
-Marketing
+## Logic for Evangelist Stage
 
-MQL
+In a referral-driven MSME ecosystem, customers are often influenced by peer recommendations. Creating a trackable **Evangelist** stage helps:
 
-Matched ICP (industry, company size), opened 2+ emails or clicked ad
+- Drive **high-quality inbound leads** without paid CAC.
+- Encourage **advocacy** through structured incentives (testimonials, referrals).
+- Close the loop between **customer delight** and **marketing pipeline**.
 
-Marketing
+This stage turns customers into champions, amplifying brand trust and reach.
 
-SQL
+---
 
-Booked a demo, showed budget authority need timeline (BANT)
-
-Sales
-
-Customer
-
-Signed contract or made payment
-
-Sales
-
-Evangelist (Bonus)
-
-Shared testimonial or referred someone
-
-Customer Success
-
-🔍 Logic for Evangelist Stage: In a referral-driven MSME ecosystem, creating a trackable "evangelist" funnel stage drives high-quality inbound without paid CAC. It rewards advocacy.
-
-
+>  Pro Tip: Implement UTM tagging, referral codes, or testimonial tracking to measure this stage's contribution to pipeline growth.
