@@ -1,10 +1,10 @@
-# 🧾 Contact Management System (CRM Core Structure)
+# Contact Management System (CRM Core Structure)
 
 This document outlines the **core data structure**, **automation logic**, and **dashboard views** for managing leads in a B2B SaaS CRM system built for MSME-focused growth.
 
 ---
 
-## 📌 Core Fields per Contact
+##  Core Fields per Contact
 
 | **Field**              | **Description**                                               |
 |------------------------|---------------------------------------------------------------|
@@ -21,7 +21,7 @@ This document outlines the **core data structure**, **automation logic**, and **
 
 ---
 
-## ⚙️ CRM Automations
+##  CRM Automations
 
 | **Automation**                                  | **Tool / Method**                               |
 |--------------------------------------------------|--------------------------------------------------|
@@ -32,24 +32,24 @@ This document outlines the **core data structure**, **automation logic**, and **
 
 ---
 
-## 📊 Dashboard Views (By Role)
+##  Dashboard Views (By Role)
 
-### 👤 Sales Reps
+### Sales Reps
 - **My Leads**
 - **Stuck SQLs**
 - **Demo Scheduled This Week**
 
-### 📈 Growth Manager
+### Growth Manager
 - **Weekly Conversions by Source**
 - **Drop-off Heatmap**
 - **Lead Quality by Channel**
 
-### 🧑‍💼 CEO / Founder
+### CEO / Founder
 - **CAC:LTV Ratio Dashboard**
 - **Revenue by Funnel Stage**
 - **Funnel Velocity Tracker**
 
 ---
 
-> 🔁 All dashboards should update in real-time or via scheduled sync (daily/weekly), ideally embedded into Notion or connected with a BI tool (e.g., Google Data Studio, Retool, Metabase).
+>  All dashboards should update in real-time or via scheduled sync (daily/weekly), ideally embedded into Notion or connected with a BI tool (e.g., Google Data Studio, Retool, Metabase).
 
